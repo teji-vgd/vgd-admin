@@ -3,6 +3,7 @@
 **Please reach out with any questions throughout this process. Additionally, if you have any suggestions on how to clarify or improve this documentation, let me know!**
 
 - [ ] Confirm how many interested students you will have at your facility.
+- [ ] Confirm your expectations match the [facility requirements](./facility-requirements.md). If there are any concerns, please reach out.
 - [ ] Confirm you have enough computer hardware to support each of your students (see the the [computer setup instructions](./computer-setup.md)).
 - [ ] Confirm with Andrew how many students you can support (i.e., limited by both your student interest and hardware supply). This is to ensure the class has enough capacity to accomodate all your students adequitly.
 - [ ] Ensure your computers are setup by following the [computer setup instructions](./computer-setup.md).
