@@ -42,7 +42,7 @@ These should be straight forward to install with the above links.
 ## Zoom Configuration
 
 Each student is expected to join the Zoom room on their individual computer (i.e., NOT one Zoom setup per classroom on a projector).
-  - **Reason:** Students need to be able to share their screen so the teaching staff can help them debug their code.
+  - **Reason:** Students need to be able to share their screen so the teaching staff can help them debug their code and have face-to-face interactions with their instructors.
 
 The teaching staff has already configured the Zoom classroom to disable Private Chat and to have a Waiting Room (i.e., the classroom will not be publicly available, we will manually admit each student).
 
@@ -51,6 +51,8 @@ The teaching staff has already configured the Zoom classroom to disable Private 
 - Mouse (i.e., not a trackpad)
 - Headset & Microphone
     - **Reason:** Required so students can participate in the Zoom classroom (i.e., talk and listen) without causing microphone feedback.
+- Webcam
+    - **Reason:** Required so students can have face-to-face interactions with with their instructors.
 - A "modern" Windows computer per student, with these minimum requirements:
     - OS: 64-bit Windows 10/11
     - RAM: 8GB+
