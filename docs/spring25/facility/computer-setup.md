@@ -9,6 +9,7 @@ Students must be able to access the following web resources:
 | p5js Website / Documentation | https://p5js.org/ |
 | p5js Code Editor | https://editor.p5js.org/ |
 | p5play Library | https://p5play.org/ |
+| q5js Library | https://q5js.org/ |
 | Course Website  | https://teji-vgd.github.io/vgd-course/ |
 | Course Surveys (Pre/Post) | Link is not public, see emails |
 | Zoom Room | Link is not public, see emails |
