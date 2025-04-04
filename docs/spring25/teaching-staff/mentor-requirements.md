@@ -3,7 +3,7 @@
 ## Course Overview
 
 We will be teaching an introductory programming class to incarcerated students centered around 2D video game programming (e.g., Pong, Snake, Pacman, and Space Invaders).
-- Class will be held on Zoom Monday/Wednesday @ 7:00pm-8:30pm from March 31st until May 14th.
+- **Class will be held on Zoom Monday/Wednesday @ 7:00pm-8:30pm from March 31st until May 14th.**
 - At the end of the semester, students will develop, program, and present an original game as part of a "Class Capstone / Symposium". The teaching staff will optionally be able to travel to participating facilities to play each students game and give out certificates.
 - The class provides community college credit to all participating incarcerated students.
 - For additional course details, see the [Course Syllabus](../course/syllabus.md).
@@ -29,7 +29,7 @@ Generally, each Zoom class will follow this general flow:
 The course will be taught using [p5js](https://p5js.org/). Mentors will need some basic familiarity with general programming concepts, although specific prior experience with [p5js](https://p5js.org/) is **not necessary**. Truly, any introductory programming experience (e.g., Python, Java, web development, etc.) should **more** than prepare you for mentoring. That being said, don't hesitate to reach out if you are unsure / have any concerns.
 
 ### Schedule Requirements
-Class will be held on Zoom Monday/Wednesday @ 7:00pm-8:30pm from March 31st until May 14th. **We ask that Mentors commit to attending all (or nearly all) classes.** If you have a minor conflict, we ask that you communicate it in advance to ensure we can accomodate it / plan around it. (Obviously, unforseeable emergancies are different!)
+**Class will be held on Zoom Monday/Wednesday @ 7:00pm-8:30pm from March 31st until May 14th. We ask that Mentors commit to attending all (or nearly all) classes.** If you have a minor conflict, we ask that you communicate it in advance to ensure we can accomodate it / plan around it. (Obviously, unforseeable emergancies are different!)
 - **Reason:** Based on how the class is structured, it is difficult to meaningfully fill a Mentorship role with frequent absences.
 - **Reason:** Quite a bit of logistical paperwork needs to be completed on our end for each Mentor. Frankly it is too much work if your only planning to stop by once.
 
