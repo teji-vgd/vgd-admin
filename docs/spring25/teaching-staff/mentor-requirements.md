@@ -3,7 +3,7 @@
 ## Course Overview
 
 We will be teaching an introductory programming class to incarcerated students centered around 2D video game programming (e.g., Pong, Snake, Pacman, and Space Invaders).
-- Class will be held on Zoom Monday/Wednesday @ 6:30pm-8pm from March 31st until May 14th.
+- Class will be held on Zoom Monday/Wednesday @ 7:00pm-8:30pm from March 31st until May 14th.
 - At the end of the semester, students will develop, program, and present an original game as part of a "Class Capstone / Symposium". The teaching staff will optionally be able to travel to participating facilities to play each students game and give out certificates.
 - The class provides community college credit to all participating incarcerated students.
 - For additional course details, see the [Course Syllabus](../course/syllabus.md).
